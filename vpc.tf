@@ -9,3 +9,4 @@ resource “aws_vpc” “prod-vpc” {
         Name = “prod-vpc”
     }
 }
+
